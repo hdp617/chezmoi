@@ -73,7 +73,7 @@ require (
 	golang.org/x/sys v0.50.0
 	golang.org/x/term v0.48.0
 	golang.org/x/text v0.44.0
-	gopkg.in/ini.v1 v1.67.3
+	gopkg.in/ini.v1 v1.68.0
 	howett.net/plist v1.0.1
 	mvdan.cc/sh/v3 v3.14.1
 	znkr.io/diff v1.0.1
