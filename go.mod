@@ -76,7 +76,7 @@ require (
 	gopkg.in/ini.v1 v1.68.0
 	howett.net/plist v1.0.1
 	mvdan.cc/sh/v3 v3.14.1
-	znkr.io/diff v1.0.1
+	znkr.io/diff v1.1.4
 )
 
 require (
