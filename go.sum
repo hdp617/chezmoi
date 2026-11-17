@@ -97,8 +97,8 @@ github.com/aymerick/douceur v0.2.0 h1:Mv+mAeH1Q+n9Fr+oyamOlAkUNPWPlA8PPGR0QAaYuP
 github.com/aymerick/douceur v0.2.0/go.mod h1:wlT5vV2O3h55X9m7iVYN0TBM0NH/MmbLnd30/FjWUq4=
 github.com/bartventer/httpcache v0.14.0 h1:+gePKEpVIhJpMZmEDkd2bZYT9erVXslAbYVoc/o5H4M=
 github.com/bartventer/httpcache v0.14.0/go.mod h1:AXVAaiITDQ83wjpI8TzzLior8A9VFq0cl3chDtQRpgU=
-github.com/betterleaks/betterleaks v1.8.1 h1:tTSQAdQe+S4MF69o6VtpRDlml1b73F1xNUUA3PcrHiI=
-github.com/betterleaks/betterleaks v1.8.1/go.mod h1:M8pR9QvWFx+iWcRH2HG6Qe1wP9DLXhHt75iMNyZ7Y+s=
+github.com/betterleaks/betterleaks v1.10.1 h1:w7AL/I3ygUzxoPTvTniTtMMWDAnZRTrIiBebc/L+E2o=
+github.com/betterleaks/betterleaks v1.10.1/go.mod h1:KiYmBxJjWyskEWHRlbAV+JDZ3yCuU437YhHyatv7c4g=
 github.com/blang/semver/v4 v4.0.0 h1:1PFHFE6yCCTv8C1TeyNNarDzntLi7wMI5i/pzqYIsAM=
 github.com/blang/semver/v4 v4.0.0/go.mod h1:IbckMUScFkM3pff0VJDNKRiT6TG/YpiHIM2yvyW5YoQ=
 github.com/bmatcuk/doublestar/v4 v4.10.0 h1:zU9WiOla1YA122oLM6i4EXvGW62DvKZVxIe6TYWexEs=
