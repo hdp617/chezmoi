@@ -26,7 +26,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azsecrets v1.5.1
 	github.com/BurntSushi/toml v1.6.0
 	github.com/Masterminds/sprig/v3 v3.3.0
-	github.com/Shopify/ejson v1.5.5
+	github.com/Shopify/ejson v1.6.0
 	github.com/alecthomas/assert/v2 v2.11.0
 	github.com/aws/aws-sdk-go-v2 v1.48.0
 	github.com/aws/aws-sdk-go-v2/config v1.33.19
