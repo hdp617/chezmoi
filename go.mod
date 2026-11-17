@@ -33,7 +33,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.51.0
 	github.com/bartventer/httpcache v0.14.0
 	github.com/betterleaks/betterleaks v1.10.1
-	github.com/bmatcuk/doublestar/v4 v4.10.0
+	github.com/bmatcuk/doublestar/v4 v4.10.4
 	github.com/bradenhilton/mozillainstallhash v1.0.1
 	github.com/charmbracelet/bubbles v0.20.0
 	github.com/charmbracelet/bubbletea v1.3.10
