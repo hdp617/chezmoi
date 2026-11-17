@@ -573,5 +573,5 @@ howett.net/plist v1.0.1 h1:37GdZ8tP09Q35o9ych3ehygcsL+HqKSwzctveSlarvM=
 howett.net/plist v1.0.1/go.mod h1:lqaXoTrLY4hg8tnEzNru53gicrbv7rrk+2xJA/7hw9g=
 mvdan.cc/sh/v3 v3.14.1 h1:bXkhQWNHCs0KZEChF8hYS6FC+T2N9mUZLbQv9blditI=
 mvdan.cc/sh/v3 v3.14.1/go.mod h1:syYCoFET8w9tvevxiXUtY8/ICrU+l26jHmhJDra3Vwo=
-znkr.io/diff v1.0.1 h1:h+kd4J3DQHccrvJC6pZ5pI4B56cLQvGVubjJnXtU8rU=
-znkr.io/diff v1.0.1/go.mod h1:4MRwV40UKLveWSNArVT3wjYxbl8XFN+I+6QY2BlSGQM=
+znkr.io/diff v1.1.4 h1:ib4zEF5iyjcudfZGW5tCxiSitY+o4ZOz1gwEJ8KJFj8=
+znkr.io/diff v1.1.4/go.mod h1:NGb8XOI3voBG4nlWWNB2NulIQzdCfe9igGPVSXs6oSM=
