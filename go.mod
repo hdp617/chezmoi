@@ -49,7 +49,7 @@ require (
 	github.com/google/renameio/v2 v2.0.2
 	github.com/gopasspw/gopass v1.17.4
 	github.com/itchyny/gojq v0.12.19
-	github.com/klauspost/compress v1.20.1
+	github.com/klauspost/compress v1.20.4
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/muesli/combinator v0.3.0
 	github.com/muesli/termenv v0.16.0
