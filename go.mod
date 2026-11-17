@@ -53,7 +53,7 @@ require (
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/muesli/combinator v0.3.0
 	github.com/muesli/termenv v0.16.0
-	github.com/nwaples/rardecode/v2 v2.4.1
+	github.com/nwaples/rardecode/v2 v2.4.6
 	github.com/pete-woods/go-expect v0.1.4
 	github.com/rogpeppe/go-internal v1.16.0
 	github.com/spf13/cobra v1.10.2
