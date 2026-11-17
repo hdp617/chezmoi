@@ -64,7 +64,7 @@ require (
 	github.com/twpayne/go-shell v0.5.0
 	github.com/twpayne/go-vfs/v5 v5.0.5
 	github.com/twpayne/go-xdg/v6 v6.1.3
-	github.com/ulikunitz/xz v0.5.16
+	github.com/ulikunitz/xz v0.5.17
 	github.com/zalando/go-keyring v0.2.8
 	go.etcd.io/bbolt v1.5.0
 	golang.org/x/crypto v0.59.0
