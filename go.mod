@@ -57,7 +57,7 @@ require (
 	github.com/pete-woods/go-expect v0.1.4
 	github.com/rogpeppe/go-internal v1.16.0
 	github.com/spf13/cobra v1.10.2
-	github.com/spf13/pflag v1.0.10
+	github.com/spf13/pflag v1.1.0
 	github.com/tailscale/hujson v0.0.0-20260727124030-b80ff77dac4f
 	github.com/tobischo/gokeepasslib/v3 v3.7.1
 	github.com/twpayne/go-pinentry/v4 v4.0.1
